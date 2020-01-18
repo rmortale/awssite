@@ -2,4 +2,10 @@ baseURL = "https://www.awstutorials.cloud/"
 languageCode = "en-us"
 title = "AWS Tutorials"
 theme = "hugo_theme_pickles-release"
-ga_api_key = "UA-1005412-3"
+copyright = "&copy; Copyright by Antonio Dolce"
+
+
+[params]
+  ga_api_key = "UA-1005412-3"
+  author = "Antonio Dolce"
+  github = "rmortale"

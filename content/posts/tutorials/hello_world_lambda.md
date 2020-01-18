@@ -2,7 +2,6 @@
 title: "Hello world Lambda"
 date: 2020-01-16T16:11:59+01:00
 draft: false
-author: Antonio Dolce
 ---
 
 In this post we will use AWS Serverless Application Model (SAM) to create and deploy a simple Lambda function written in Java.
