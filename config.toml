@@ -1,4 +1,5 @@
-baseURL = "https://agitated-wescoff-90b7c9.netlify.com/"
+baseURL = "https://www.awstutorials.cloud/"
 languageCode = "en-us"
 title = "AWS Tutorials"
 theme = "hugo_theme_pickles-release"
+ga_api_key = "UA-1005412-3"
