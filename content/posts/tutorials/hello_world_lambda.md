@@ -39,4 +39,5 @@ Invoke API
 ### Delete
     aws cloudformation delete-stack --stack-name hello-world-lambda
 
- 
+### Books
+Prepare for your exam with this book [AWS Certified SysOps Administrator - Associate (SOA-C01) Cert Guide](https://amzn.to/2tx3iDW)
