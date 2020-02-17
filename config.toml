@@ -2,12 +2,11 @@ baseURL = "https://www.awstutorials.cloud/"
 languageCode = "en-us"
 title = "AWS Tutorials"
 theme = "hugo_theme_pickles-release"
-copyright = "&copy; Copyright by Antonio Dolce"
+copyright = "&copy; Copyright by awstutorials.cloud,  All Rights Reserved - Disclosure: Affiliate links on this page may provide a discount and in return, give us commission in order to run the website :-)"
 
 
 [params]
   ga_api_key = "UA-156515156-1"
-  author = "Antonio Dolce"
   github = "rmortale"
   disqus = "awstutorials"
   
