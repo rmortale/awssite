@@ -1,12 +1,67 @@
-baseURL = "https://www.awstutorials.cloud/"
+baseurl = "https://www.awstutorials.cloud/"
+title = "Cloud Tutorials"
+theme = "northendlab-hugo-master"
 languageCode = "en-us"
-title = "AWS Tutorials"
-theme = "hugo_theme_pickles-release"
-copyright = "&copy; Copyright by awstutorials.cloud,  All Rights Reserved - Disclosure: Affiliate links on this page may provide a discount and in return, give us commission in order to run the website :-)"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+disqusShortname = "awstutorials"
 
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
 
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+######################### Default Parameters ###########################
 [params]
-  ga_api_key = "UA-156515156-1"
-  github = "rmortale"
-  disqus = "awstutorials"
-  logo = "/static/images/1004_cloud_tutorials_RB-02.jpg"
+# home
+home = "Home"
+# logo
+logo = "images/g3727.png"
+# meta data
+author = "cloudtutorials"
+description = "Tutorials about the cloud"
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "UA-156515156-1"
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; Copyright by Cloud Tutorials,  All Rights Reserved - Disclosure: Affiliate links on this page may provide a discount and in return, give us commission in order to run the website :-)"
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Cloud Tutorials"
+image = "images/banner/illustration.svg"
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "#"
