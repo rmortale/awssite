@@ -58,10 +58,8 @@ image = "images/banner/illustration.svg"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UCkLjBvRk6q9HK1CmhLPfGDA"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/rmortale"
+
