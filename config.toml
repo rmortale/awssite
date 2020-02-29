@@ -36,7 +36,7 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Subscribe"
 weight = 1
 
 ######################### Default Parameters ###########################
