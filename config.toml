@@ -31,6 +31,14 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
 ######################### Default Parameters ###########################
 [params]
 # home
