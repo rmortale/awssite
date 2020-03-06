@@ -71,3 +71,6 @@ link = "https://www.youtube.com/channel/UCkLjBvRk6q9HK1CmhLPfGDA"
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "https://github.com/rmortale"
 
+[params.adsense]
+client = "ca-pub-7348023295569555"
+inArticleSlot = "4746722500"
