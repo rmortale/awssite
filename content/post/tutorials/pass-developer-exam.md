@@ -3,6 +3,8 @@ title: Pass AWS Certified Developer Associate Exam
 date: 2020-03-01T16:11:59+01:00
 draft: false
 author: Antonio
+image: images/awscertified.png
+description: Hints on how to pass the AWS Developer Exam
 categories: 
   - Certification
 ---

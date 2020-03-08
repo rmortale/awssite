@@ -3,6 +3,8 @@ title: "Build and deploy Lambda with Github Action"
 date: 2020-02-07T16:11:59+01:00
 draft: false
 author: Antonio
+image: images/githubblog.png
+description: Use Github Actions to build and deploy a Lambda function 
 categories: 
   - Lambda
   - Github Action

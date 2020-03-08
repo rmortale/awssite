@@ -3,6 +3,8 @@ title: "Hello world Lambda"
 date: 2020-01-16T16:11:59+01:00
 draft: false
 author: Antonio
+image: images/lambdablog.png
+description: Create and deploy simple Lambda function with SAM
 categories: 
   - Lambda
 ---

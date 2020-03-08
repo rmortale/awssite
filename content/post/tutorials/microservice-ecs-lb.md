@@ -3,6 +3,7 @@ title: Microservice Architecture on AWS
 date: 2020-02-22T16:11:59+01:00
 draft: false
 author: Antonio
+description: Microservices on AWS ECS
 categories: 
   - ECS
 ---
