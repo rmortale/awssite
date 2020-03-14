@@ -10,7 +10,9 @@ categories:
   - ECS
 ---
 
-In this tutorial I will distribute a simple Java Rest application in AWS Fargate. I will use [fargatecli](https://github.com/awslabs/fargatecli).
+In this tutorial I will distribute a simple Java Rest application to AWS Fargate. I will use [fargatecli](https://github.com/awslabs/fargatecli). You can follow the video or continue reading.
+
+{{< youtube XsQPhQwZh_Y >}}
 
 ### Prerequisites
 * Java JDK 1.8 installed
