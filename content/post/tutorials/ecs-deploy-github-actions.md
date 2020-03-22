@@ -10,8 +10,9 @@ categories:
   - ECS
 ---
 
-In this tutorial we will deploy a simple Java Rest application to AWS Fargate. We will use Github Actions to build and deploy the application.
+In this tutorial we will deploy a simple Java Rest application to AWS Fargate. We will use Github Actions to build and deploy the application. You can follow the video or continue reading.
 
+{{< youtube FxvOpwOkCoQ >}}
 
 ### Prerequisites
 * Java JDK 1.8 installed
