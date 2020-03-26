@@ -12,6 +12,8 @@ categories:
 
 In this tutorial we will deploy a simple Java Rest application to AWS Fargate. We will use Github Actions to build and deploy the application. You can follow the video or continue reading.
 
+[![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
+
 {{< youtube FxvOpwOkCoQ >}}
 
 ### Prerequisites
@@ -129,6 +131,4 @@ The AWS resources we created are not free. So to clean them up, we can run the f
 ##### Summary
 In this post i demonstrated AWS Fargate. With a few commands we created a Fargate Cluster and a Service with one Task. And with the help of Github Actions we could deploy the service fully automated.
 
-
-[![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 

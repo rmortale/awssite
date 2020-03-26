@@ -12,6 +12,8 @@ categories:
 
 In this post we will use AWS Serverless Application Model (SAM) to create and deploy a simple Lambda function written in Python. The Function get's built and deployed with [Github Actions](https://github.com/marketplace?type=actions).
 
+[![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
+
 ### Prerequisites
 * AWS CLI
 * Python 3
@@ -80,7 +82,4 @@ Invoke API
 
 ### Delete
     aws cloudformation delete-stack --stack-name pyth38-demo
-
-
-[![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
