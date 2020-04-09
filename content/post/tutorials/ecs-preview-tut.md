@@ -10,10 +10,11 @@ categories:
   - ECS
 ---
 
-In this tutorial I will deploy a simple Java Rest application to AWS ECS. I will use the new command line tool [ecs-cli-v2](https://github.com/aws/amazon-ecs-cli-v2). 
+In this tutorial I will deploy a simple Java Rest application to AWS ECS. I will use the new command line tool [ecs-cli-v2](https://github.com/aws/amazon-ecs-cli-v2). You can follow the video or continue reading.
 
 [![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
+{{< youtube LcnsDeBbcKw >}}
 
 ### Prerequisites
 * Java JDK 1.8 installed
