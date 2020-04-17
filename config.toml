@@ -47,7 +47,7 @@ home = "Home"
 logo = "images/g3727.png"
 # meta data
 author = "cloudtutorials"
-description = "Tutorials about the cloud. AWS Certification, ECS, Kubernetes, App Mesh, Remote Working, Amazon WorkSpaces, Machine Learning"
+description = "Tutorials about the cloud. AWS Certification, Lambda, S3, Redshift, ECS, Kubernetes, App Mesh, Remote Working, Amazon WorkSpaces, Machine Learning"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
