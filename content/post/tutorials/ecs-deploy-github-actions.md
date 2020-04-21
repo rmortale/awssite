@@ -131,4 +131,5 @@ The AWS resources we created are not free. So to clean them up, we can run the f
 ##### Summary
 In this post i demonstrated AWS Fargate. With a few commands we created a Fargate Cluster and a Service with one Task. And with the help of Github Actions we could deploy the service fully automated.
 
+{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}
 

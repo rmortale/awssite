@@ -113,3 +113,4 @@ As mentioned before, the AWS resources we created are not free. So to clean them
 ### Summary
 In this post i demonstrated the fargatecli. With a few commands we created a Fargate Cluster and a Service with one Task. With fargatecli it is also possible to manage Load Balancers, Certificates and more. More about that in another post.
 
+{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

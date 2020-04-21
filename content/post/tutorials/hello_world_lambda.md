@@ -45,3 +45,5 @@ Invoke API
 
 ### Delete
     aws cloudformation delete-stack --stack-name hello-world-lambda
+
+{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

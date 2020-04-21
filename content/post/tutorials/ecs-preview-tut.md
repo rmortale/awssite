@@ -86,3 +86,4 @@ As mentioned before, the AWS resources we created are not free. So to clean them
 ### Summary
 In this post i demonstrated the new ecs-cli-v2. With one command we created a Fargate Cluster and deployed our sample app to it.
 
+{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

@@ -59,3 +59,5 @@ Success! We got the order message in the queue. Now on this queue would listenin
 
 #### Summary
 In this tutorial we created an API Gateway which is directly connected to a SNS Topic. To this Topic we subscribed one SQS queue.
+
+{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}
