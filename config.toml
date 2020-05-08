@@ -34,10 +34,10 @@ link = "plugins/search/search.js"
 ########################### Navigation ###################################
 
 # main menu
-[[menu.main]]
-URL = "contact"
-name = "Subscribe"
-weight = 1
+#[[menu.main]]
+#URL = "contact"
+#name = "Subscribe"
+#weight = 1
 
 ######################### Default Parameters ###########################
 [params]
@@ -56,6 +56,17 @@ google_analitycs_id = "UA-156515156-1"
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
 copyright = "&copy; Copyright by Cloud Tutorials,  All Rights Reserved - Disclosure: Affiliate links on this page may provide a discount and in return, give us commission in order to run the website :-)"
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Cloud Certifications"
+description = "Start your preparation with us now, and become a Cloud expert."
+[params.cta.button]
+enable = true
+label = "Learn more"
+link = "https://bit.ly/3bhYSk2"
 
 ####################### banner #######################################
 [params.banner]

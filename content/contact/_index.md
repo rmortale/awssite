@@ -1,7 +1,7 @@
 ---
 title: "Subscribe"
 draft: false
-description : "subscribe to our mailing list"
+description : "Subscribe to our mailing list"
 image: "images/contact.svg"
 ---
 
