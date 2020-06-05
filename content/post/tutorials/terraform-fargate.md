@@ -13,7 +13,7 @@ categories:
 
 In this post we will use [Terraform](https://www.terraform.io/) to create a Fargate Cluster and deploy a service to it.
 
-[![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
+[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
 
 ### Prerequisites

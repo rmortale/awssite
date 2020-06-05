@@ -12,7 +12,7 @@ categories:
 
 In this post we will use [eksctl](https://eksctl.io) to create a Kubernetes Cluster on AWS (EKS). You can follow the video or continue reading.
 
-[![AWS](https://static.shareasale.com/image/43514/468X6010.jpg)](https://shareasale.com/r.cfm?b=1373702&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
+[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
 {{< youtube 6cYgKoqqZ_I >}}
 
