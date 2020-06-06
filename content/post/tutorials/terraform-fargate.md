@@ -11,10 +11,11 @@ categories:
   - Fargate
 ---
 
-In this post we will use [Terraform](https://www.terraform.io/) to create a Fargate Cluster and deploy a service to it.
+In this post we will use [Terraform](https://www.terraform.io/) to create a Fargate Cluster and deploy a service to it. You can follow the video or continue reading.
 
 [![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
+{{< youtube 97p8lI8MypI >}}
 
 ### Prerequisites
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv1.html) installed and configured
