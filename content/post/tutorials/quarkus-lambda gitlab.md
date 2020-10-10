@@ -13,7 +13,9 @@ categories:
 
 The [quarkus-amazon-lambda extension](https://quarkus.io/guides/amazon-lambda) allows you to use [Quarkus](https://quarkus.io) to build your AWS Lambdas. Your Lambdas can use injection annotations from CDI or Spring and other Quarkus facilities as you need them.
 
-Quarkus Lambdas can be deployed using the Amazon Java Runtime, or you can build a native executable and use Amazon’s Custom Runtime if you want a smaller memory footprint and faster cold boot startup time.
+Quarkus Lambdas can be deployed using the Amazon Java Runtime, or you can build a native executable and use Amazon’s Custom Runtime if you want a smaller memory footprint and faster cold boot startup time. You can follow the video or continue reading.
+
+{{< youtube vutg74NLhM8 >}}
 
 [![Certified Kubernetes Administrator](https://static.shareasale.com/image/43514/Certified_Kubernetes_Administrator.jpg)](https://shareasale.com/r.cfm?b=1543562&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
