@@ -11,7 +11,9 @@ categories:
   - Azure
 ---
 
-In this post we will use the CLI to create a Kubernetes Cluster on Azure (AKS).
+In this post we will use the CLI to create a Kubernetes Cluster on Azure (AKS). You can follow the video or continue reading.
+
+{{< youtube lcf-TiPobU4 >}}
 
 [![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
