@@ -10,7 +10,9 @@ categories:
   - Docker
 ---
 
-You can package your Lambda function code and dependencies as a container image, using tools such as the Docker CLI. You can then upload the image to your container registry hosted on Amazon Elastic Container Registry (Amazon ECR) and deploy it to AWS Lambda.
+You can package your Lambda function code and dependencies as a container image, using tools such as the Docker CLI. You can then upload the image to your container registry hosted on Amazon Elastic Container Registry (Amazon ECR) and deploy it to AWS Lambda. You can follow the video or continue reading.
+
+{{< youtube UiVOj6rR6Yk >}}
 
 [![Certified Kubernetes Administrator](https://static.shareasale.com/image/43514/Certified_Kubernetes_Administrator.jpg)](https://shareasale.com/r.cfm?b=1543562&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
 
