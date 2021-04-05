@@ -10,7 +10,9 @@ categories:
   - GKE
 ---
 
-In this post we will create a Cluster on Google Kubernetes Engine (GKE). When you like to test something on a Kubernetes Cluster one possibility is to create this cluster on GKE using preemptible VMs. Preemptible VMs are Compute Engine VM instances that last a maximum of 24 hours in general, and provide no availability guarantees. Preemptible VMs are priced lower than standard Compute Engine VMs and offer the same machine types and options. Let's start.
+In this post we will create a Cluster on Google Kubernetes Engine (GKE). When you like to test something on a Kubernetes Cluster one possibility is to create this cluster on GKE using preemptible VMs. Preemptible VMs are Compute Engine VM instances that last a maximum of 24 hours in general, and provide no availability guarantees. Preemptible VMs are priced lower than standard Compute Engine VMs and offer the same machine types and options. You can follow the video or continue reading. Let's start.
+
+{{< youtube QtTsmqeAXTQ >}}
 
 ### Prerequisites
 * Google Cloud Account
