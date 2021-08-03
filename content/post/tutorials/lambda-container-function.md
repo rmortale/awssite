@@ -14,8 +14,6 @@ You can package your Lambda function code and dependencies as a container image,
 
 {{< youtube UiVOj6rR6Yk >}}
 
-[![Certified Kubernetes Administrator](https://static.shareasale.com/image/43514/Certified_Kubernetes_Administrator.jpg)](https://shareasale.com/r.cfm?b=1543562&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 ### Prerequisites
 * [Docker](https://docs.docker.com/get-docker/) installed
 * Java JDK 11
@@ -277,4 +275,3 @@ To delete the created resources use:
 ### Summary
 In this post we created a sample Lambda project, packaged our Lambda function code and dependencies as a container image, deployed the container image and tested it successfully.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

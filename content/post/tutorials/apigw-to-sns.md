@@ -13,8 +13,6 @@ categories:
 
 In this tutorial we will create an API Gateway which is directly connected to a SNS Topic. To this Topic we subscribe one or more SQS queues (see the picture above). To this queues we can connect our microservices (not covered in this tutorial). This simple architecture enables the user to submit an asynchronous request thru the API Gateway and to process this request in a scalable way.
 
-[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 #### Prerequisites
 * Git client
 * AWS Account
@@ -60,4 +58,3 @@ Success! We got the order message in the queue. Now on this queue would listenin
 #### Summary
 In this tutorial we created an API Gateway which is directly connected to a SNS Topic. To this Topic we subscribed one SQS queue.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

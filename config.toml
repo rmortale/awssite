@@ -59,7 +59,7 @@ copyright = "&copy; Copyright by Cloud Tutorials,  All Rights Reserved - Disclos
 
 ######################## call to action ###############################
 [params.cta]
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Cloud Certifications"
 description = "Start your preparation with us now, and become a Cloud expert."

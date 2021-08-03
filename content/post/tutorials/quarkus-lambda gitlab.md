@@ -17,8 +17,6 @@ Quarkus Lambdas can be deployed using the Amazon Java Runtime, or you can build 
 
 {{< youtube vutg74NLhM8 >}}
 
-[![Certified Kubernetes Administrator](https://static.shareasale.com/image/43514/Certified_Kubernetes_Administrator.jpg)](https://shareasale.com/r.cfm?b=1543562&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 ### Prerequisites
 * [Docker](https://docs.docker.com/get-docker/) installed
 * Java JDK 11
@@ -222,4 +220,3 @@ Commit and push all changes. After some minutes you should have the Lambda funct
 ### Summary
 In this post we used Quarkus to build a Lambda function with `custom` runtime. The advantage of this is a fast startup and execution time of the Lambda function. We built a CI pipeline using Gitlab. In the next part we will deploy this Lambda function with help of terraform.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

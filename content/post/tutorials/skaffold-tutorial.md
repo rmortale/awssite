@@ -12,8 +12,6 @@ categories:
 
 In this post we will use skaffold. Skaffold is a command line tool that facilitates continuous development for Kubernetes applications. You can iterate on your application source code locally then deploy to local or remote Kubernetes clusters. Skaffold handles the workflow for building, pushing and deploying your application.
 
-[![Certified Kubernetes Administrator](https://static.shareasale.com/image/43514/Certified_Kubernetes_Administrator.jpg)](https://shareasale.com/r.cfm?b=1543562&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 ### Prerequisites
 * [Docker](https://docs.docker.com/get-docker/) installed
 * [Local Kubernetes](https://docs.docker.com/get-docker/) installed (Docker Desktop or minikube..)
@@ -66,4 +64,3 @@ Pressing `Ctrl-C` in the terminal window will undeploy the pod and exit skaffold
 ### Summary
 In this post we used skaffold to continuously deploy changes to our local Kubernetes cluster.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

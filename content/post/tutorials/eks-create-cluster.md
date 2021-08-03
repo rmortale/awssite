@@ -12,8 +12,6 @@ categories:
 
 In this post we will use [eksctl](https://eksctl.io) to create a Kubernetes Cluster on AWS (EKS). You can follow the video or continue reading.
 
-[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 {{< youtube 6cYgKoqqZ_I >}}
 
 ### Prerequisites
@@ -97,4 +95,3 @@ To delete all resources created use:
 ### Summary
 In this post we created an EKS cluster with one command.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

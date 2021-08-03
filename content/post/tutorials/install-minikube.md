@@ -12,8 +12,6 @@ categories:
 
 In this tutorial we install [minikube](https://minikube.sigs.k8s.io/docs/). A single node Kubernetes Cluster which runs on our Laptop. Usefull for developing and testing.
 
-[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 #### Prerequisites
 * [Docker installed](https://docs.docker.com/get-docker/)
 
@@ -62,4 +60,3 @@ If you want to stop minikube enter `minikube stop`.
 #### Summary
 In this tutorial we installed and started minikube.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}

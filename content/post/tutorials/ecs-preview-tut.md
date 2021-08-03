@@ -12,8 +12,6 @@ categories:
 
 In this tutorial I will deploy a simple Java Rest application to AWS ECS. I will use the new command line tool [ecs-cli-v2](https://github.com/aws/amazon-ecs-cli-v2). You can follow the video or continue reading.
 
-[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 {{< youtube LcnsDeBbcKw >}}
 
 ### Prerequisites
@@ -86,4 +84,3 @@ As mentioned before, the AWS resources we created are not free. So to clean them
 ### Summary
 In this post i demonstrated the new ecs-cli-v2. With one command we created a Fargate Cluster and deployed our sample app to it.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}
