@@ -15,8 +15,6 @@ In this post we will use the CLI to create a Kubernetes Cluster on Azure (AKS). 
 
 {{< youtube lcf-TiPobU4 >}}
 
-[![AWS](https://static.shareasale.com/image/43514/300X2503_00.jpg)](https://shareasale.com/r.cfm?b=1551034&amp;u=2310472&amp;m=43514&amp;urllink=&amp;afftrack=)
-
 ### Prerequisites
 * [Azure account](https://azure.microsoft.com/en-us/)
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) installed and configured
@@ -70,4 +68,3 @@ To delete all resources created use:
 ### Summary
 In this post we created a Kubernetes cluster on Azure.
 
-{{< figure src="https://bluehost-cdn.com/media/partner/images/antoniodol/488x160/488x160BW.png" target="_blank" link="https://www.bluehost.com/track/antoniodol/blue1" >}}
