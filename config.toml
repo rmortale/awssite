@@ -49,7 +49,7 @@ logo = "images/g3727.png"
 author = "cloudtutorials"
 description = "Tutorials about the cloud. AWS Certification, Lambda, S3, Redshift, ECS, Kubernetes, App Mesh, Remote Working, Amazon WorkSpaces, Machine Learning"
 # google tag manager
-googleAnalytics = '311540369'
+googleAnalytics = 'G-43Q3D15W9G'
 # google_tag_manager = "" # your id
 # google analitycs ID
 # google_analitycs_id = "UA-156515156-1"
