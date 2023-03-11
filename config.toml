@@ -49,9 +49,10 @@ logo = "images/g3727.png"
 author = "cloudtutorials"
 description = "Tutorials about the cloud. AWS Certification, Lambda, S3, Redshift, ECS, Kubernetes, App Mesh, Remote Working, Amazon WorkSpaces, Machine Learning"
 # google tag manager
-google_tag_manager = "" # your id
+googleAnalytics = '311540369'
+# google_tag_manager = "" # your id
 # google analitycs ID
-google_analitycs_id = "UA-156515156-1"
+# google_analitycs_id = "UA-156515156-1"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
@@ -83,5 +84,5 @@ icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "https://github.com/rmortale"
 
 [params.adsense]
-client = "ca-pub-7348023295569555"
-inArticleSlot = "4746722500"
+#client = "ca-pub-7348023295569555"
+#inArticleSlot = "4746722500"
